@@ -1,2 +1,4 @@
 #!/bin/bash
-chown -R vincent:staff .
+find . -print0 | xargs -0 chown vincent:staff
+
+
