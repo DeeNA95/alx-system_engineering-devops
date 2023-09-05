@@ -1,0 +1,2 @@
+#!/bin/bash
+while IFS=: read -r user _ _ _ _ dir _; do echo "$user $dir"; done < /etc/passwd | sort
