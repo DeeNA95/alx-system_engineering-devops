@@ -1,1 +1,2 @@
-readme for 0x03 shell project
+#!/bin/bash
+Readme file for shell variable expansions
