@@ -1,1 +1,2 @@
-Shell redirections directory
+#!/bin/bash
+This is a new readme
